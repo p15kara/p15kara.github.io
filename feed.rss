@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/">
-<channel><title>My personal blog</title><link>/index.html</link>
+<channel><title>My personal blog</title><link>https://p15kara.github.io/index.html</link>
 <description>Simple demonstration of bashblog utility</description><language>en</language>
-<lastBuildDate>Thu, 04 May 2023 19:46:06 +0300</lastBuildDate>
-<pubDate>Thu, 04 May 2023 19:46:06 +0300</pubDate>
-<atom:link href="/feed.rss" rel="self" type="application/rss+xml" />
+<lastBuildDate>Thu, 04 May 2023 19:53:51 +0300</lastBuildDate>
+<pubDate>Thu, 04 May 2023 19:53:51 +0300</pubDate>
+<atom:link href="https://p15kara.github.io/feed.rss" rel="self" type="application/rss+xml" />
 <item><title>
 My first blog
 </title><description><![CDATA[
@@ -14,9 +14,11 @@ My first blog
 
 
 
+
+
 <!-- text end -->
-]]></description><link>/my-first-blog.html</link>
-<guid>/./my-first-blog.html</guid>
+]]></description><link>https://p15kara.github.io/my-first-blog.html</link>
+<guid>https://p15kara.github.io/./my-first-blog.html</guid>
 <dc:creator>Triantafillos Karadimos</dc:creator>
 <pubDate>Thu, 04 May 2023 18:15:58 +0300</pubDate></item>
 </channel></rss>

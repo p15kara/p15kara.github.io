@@ -24,7 +24,7 @@ global_variables() {
     # The typical subtitle for each blog
     global_description="Simple demonstration of bashblog utility"
     # The public base URL for this blog
-    # global_url="http://example.com/blog"
+    global_url="https://p15kara.github.io"
 
     # Your name
     global_author="Triantafillos Karadimos"
