@@ -1,0 +1,72 @@
+body {
+  background-color: #0a0c13;  color: #d3d3d3;
+  font-family: 'Roboto', sans-serif;  font-size: 16px;
+  line-height: 1.5;  margin: 0;
+  padding: 0;}
+
+a {
+  color: #00e1ff;
+  text-decoration: none;}
+
+a:hover {
+  color: #fff;  text-decoration: underline;
+}
+
+h1, h2, h3 {  font-weight: normal;
+}
+
+h1 {  color: #00e1ff;
+  font-size: 3em;  margin: 0;
+  text-align: center;}
+
+h2 {
+  color: #fff;
+  font-size: 2em;  margin-bottom: 0;
+  text-align: center;}
+
+h3 {
+  color: #fff;  font-size: 1.5em;
+  margin-top: 2em;
+}
+
+p {
+  margin: 1.5em 0;}
+
+.headerholder {  background-color: #0a0c13;
+  height: 100px;  margin-bottom: 2em;
+  text-align: center;}
+
+.header {
+  margin: 0 auto;  max-width: 800px;
+  padding-top: 30px;}
+
+#title {
+  margin: 0;}
+
+#description {
+  color: #00e1ff;  font-size: 1.5em;
+}
+
+.content {
+  margin: 0 auto;  max-width: 800px;
+}
+.subtitle {  color: #00e1ff;
+  font-size: 1.2em;  margin-top: 1.5em;
+}
+
+#all_posts {  color: #fff;
+  margin: 3em 0;
+  text-align: center;}
+
+#all_posts a {
+  color: #00e1ff;  font-weight: bold;
+  margin-right: 1em;}
+
+#all_posts a:last-child {
+  margin-right: 0;}
+
+#footer {  background-color: #0a0c13;
+  color: #fff;  font-size: 0.8em;
+  margin-top: 2em;  padding: 1em;
+  text-align: center;
+}
